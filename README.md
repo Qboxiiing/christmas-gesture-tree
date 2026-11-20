@@ -1,5 +1,7 @@
 # Christmas Gesture Tree
 
+Only Safari is supported, and other browsers are not adapted at present.
+
 1. Open christmas_tree.html in Safari.
 2. Press the camera icon in the top-right corner and allow camera access.
 3. Show either hand and hold a gesture briefly:
